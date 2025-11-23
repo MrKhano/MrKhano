@@ -2,7 +2,7 @@
 
 🪙 Crypto trader & DeFi builder  
 🧱 Exploring Web3 through [SpeedRunEthereum](https://speedrunethereum.com) challenges  
-👋 Creator of [Hello Base](base-is-for-everyone-chi.vercel.app)  
+👋 Creator of [Hello Base](https://base-is-for-everyone-chi.vercel.app/)
 💻 Contributions: Scaffold-ETH 2, OpenZeppelin docs, and NFT tools  
 
 ## 🌐 Links
